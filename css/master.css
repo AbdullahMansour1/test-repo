@@ -36,7 +36,7 @@ ul {
   background-color: var(--blue-alt-color);
 }
 .page {
-  background-color: #f1f5f9;
+  background-color: red;
   min-height: 100vh;
   display: flex;
 }
