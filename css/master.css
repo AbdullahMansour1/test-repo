@@ -36,7 +36,11 @@ ul {
   background-color: var(--blue-alt-color);
 }
 .page {
+<<<<<<< HEAD
   background-color: #f1f5f9;
+=======
+  background-color: black;
+>>>>>>> b59ea02c69fce9d2a5602a1eeb89540f1545e553
   min-height: 100vh;
   display: flex;
 }
